@@ -42,8 +42,5 @@ I have a keen interest in AI and Backend Development.
 
 ###  Projects
 
-- **122333** <sup>2019.02 - 2023.04</sup> <a class="code" href="https://github.com/zlnre/lgaimers7">[code]</a> <br/>
-
-
-
+- **122333** <sup>2024.09 - 2024.12</sup> <a class="code" href="https://github.com/zlnre/lgaimers7">[code]</a> <br/>
 
