@@ -40,5 +40,13 @@ I have a keen interest in AI and Backend Development.
 
 ### Projects
 
-- **122333** <sup>2024.09 - 2024.12</sup> <a class="code" href="https://github.com/zlnre/lgaimers7">[code]</a> <br/>
+- **Rent-the-Runway: Clothing Fit Prediction** <sup>2024.xx - 2024.xx</sup> <a class="code" href="https://github.com/zlnre">[code]</a> <br/>
+This project focuses on predicting garment fit satisfaction based on user body types and clothing data. I implemented Logistic Regression and Random Forest models, utilizing SMOTE to resolve data imbalance and performing extensive feature engineering to achieve an accuracy of 85%.
+
+- **Resort F&B Demand Forecasting (LG Aimers Hackathon)** <sup>2025.09</sup> <a class="code" href="https://github.com/zlnre/lgaimers7">[code]</a> <br/>
+I developed an AI model to forecast menu-specific demand for resort food and beverage outlets using seasonal, weekly, and guest-related data. By implementing a GRU-based seq2seq time-series forecasting model, I successfully improved the SMAPE, outperforming existing baseline models.
+
+- **Deepfake Image Detection Model** <sup>2024.xx - 2024.xx</sup> <a class="code" href="https://github.com/zlnre">[code]</a> <br/>
+In this project, I designed and trained a CNN-based deep learning model to evaluate the performance of deepfake image detection. The model focuses on distinguishing between authentic and AI-generated visual content to enhance digital integrity.
+
 
