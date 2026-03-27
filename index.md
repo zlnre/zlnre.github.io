@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a student majoring in AI Convergence at KNU. 
+Hello! I am a student majoring in AI Convergence at KNU.<br/> 
 I have a keen interest in AI and Backend Development.
 
 
@@ -13,11 +13,11 @@ I have a keen interest in AI and Backend Development.
   <i class="material-icons md-18">school</i>
   -->
   <a href="https://www.kangwon.ac.kr/ko/index.do">Kangwon National University</a>, Chuncheon, Korea
-  <sup>2021.03 - 2017.02</sup>
+  <sup>2021.03 - 2027.02</sup>
 </h4>
 
 - B.S. in [AI convergence]
-- Cumulative GPA: 4.01 / 4.5, **Summa Cum Laude**
+- Cumulative GPA: 4.01 / 4.5 , **Summa Cum Laude**
 
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
 
@@ -37,7 +37,7 @@ I have a keen interest in AI and Backend Development.
 
 ###  Awards & Scholarships
 
-- [**LG Aimers**](https://www.lgaimers.ai/) at LG AI Research (15th place / 835), 2025 
+- [**LG Aimers**](https://www.lgaimers.ai/) at LG AI Research Ranked 12th out of 835 teams (Top 1.4%), 2025 
 - **Summa Cum Laude Honor** at Kangwon National University, 2027 
 
 ###  Projects
