@@ -22,6 +22,7 @@ I have a keen interest in AI and Backend Development.
 ### Skills
 
 
+| Category | Tech Stack |
 | :--- | :--- |
 | **Language** | Python, C |
 | **Data Analysis** | Pandas, Numpy, Scikit-learn |
