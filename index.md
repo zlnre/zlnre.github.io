@@ -20,12 +20,20 @@ I have a keen interest in AI and Backend Development.
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
 
 ### Skills
+
+* **Language**: `Python` `C`
+* **Data Analysis**: `Pandas` `Numpy` `Scikit-learn`
+* **Machine Learning**: `PyTorch`
+* **FrontEnd**: `HTML` `CSS` `JavaScript`
+* **Tools**: `Git` `GitHub`
+
+<!--
 - **Language:** Python, C
 - **Data Analysis:** Pandas, Numpy, Scikit-learn
 - **Machine Learning:** PyTorch
 - **FrontEnd:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
-
+-->
 
 <!--
 ### Experiences
