@@ -28,6 +28,11 @@ I have a keen interest in AI and Backend Development.
 **FrontEnd** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | HTML, CSS, JavaScript <br>
 **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Git, GitHub
 
+### Certification
+- **정보처리기사**
+- **ADsP**
+- **SQLD**
+
 <!--
 ### Experiences
 
