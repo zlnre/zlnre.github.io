@@ -8,10 +8,8 @@ I have a keen interest in AI and Backend Development.
 
 ### Education
 
-  <!--
   <h4 class="education">
   <i class="material-icons md-18">school</i>
-  -->
   <a href="https://www.kangwon.ac.kr/ko/index.do">Kangwon National University</a>, Chuncheon, Korea
   <sup>2021.03 - 2027.02</sup>
 </h4>
