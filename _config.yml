@@ -1,3 +1,18 @@
-title: 김진래
-description: AI Major
+title: Jinrae Kim
+subtitle: (김진래, @zlnre)
+face: /assets/img/zlnre.JPG
+# cv: 
+description: AI Convergence Major
+location: Seoul, Korea
+email: jinraek@naver.com
+homepage: https://zlnre.github.io
+#twitter:
+github: https://github.com/zlnre
+# linkedin: 
+# google_analytics:
 theme: jekyll-theme-minimal
+# google_scholar: 
+# semantic_scholar: 
+
+plugins:
+  - jekyll-seo-tag
