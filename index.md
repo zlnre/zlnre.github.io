@@ -36,8 +36,7 @@ I have a keen interest in AI and Backend Development.
 
 ### Awards & Scholarships
 
-- **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)**
-12th Place out of 817 teams (Top 1.5%), 2025
+- **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)** <br/>12th Place out of 817 teams (Top 1.5%), 2025
 - **Magna Cum Laude Honor** at Kangwon National University, 2027 
 
 ### Projects
