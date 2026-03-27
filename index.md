@@ -15,7 +15,7 @@ I have a keen interest in AI and Backend Development.
 </h4>
 
 - B.S. in [AI convergence]
-- Cumulative GPA: 4.01 / 4.5 , **Summa Cum Laude**
+- Cumulative GPA: 4.01 / 4.5 , **Magna Cum Laude**
 
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
 
@@ -44,8 +44,8 @@ I have a keen interest in AI and Backend Development.
 
 ### Awards & Scholarships
 
-- [**LG Aimers**](https://www.lgaimers.ai/) at LG AI Research Ranked 12th out of 835 teams (Top 1.4%), 2025 
-- **Summa Cum Laude Honor** at Kangwon National University, 2027 
+- **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)** – 12th Place out of 817 teams (Top 1.5%), 2025
+- **Magna Cum Laude Honor** at Kangwon National University, 2027 
 
 ### Projects
 
