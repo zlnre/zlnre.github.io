@@ -17,32 +17,28 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1 class="title">{{ site.title }}</h1>
-        <h2 class="subtitle">{{ site.subtitle }}</h2>
+<header>
+  <h1 class="title">{{ site.title }}</h1>
+  <h2 class="subtitle">{{ site.subtitle }}</h2>
 
-        {% if site.face %}
-          <div class="profile-img-container">
-            <img src="{{ site.face | relative_url }}" alt="Face" />
-          </div>
-        {% endif %}
+  {% if site.face %}
+    <img src="{{ site.face | relative_url }}" alt="Face" style="width: 100%; border-radius: 8px; margin-bottom: 20px;" />
+  {% endif %}
 
-        <p class="description">{{ site.description | default: site.github.project_tagline }}</p>
+  <p>{{ site.description }}</p>
 
-        <div class="contact-info">
-          <div class="info-item">
-            <i class="material-icons">location_on</i> <span>{{ site.location }}</span>
-          </div>
-          <div class="info-item">
-            <i class="material-icons">email</i> <span>{{ site.email }}</span>
-          </div>
-          <div class="info-item">
-            <a href="{{ site.github }}">
-              <i class="fab fa-github"></i> <span>Github</span>
-            </a>
-          </div>
-        </div>
-      </header>
+  <div class="contact-item">
+    <i class="material-icons">location_on</i> {{ site.location }}
+  </div>
+  <div class="contact-item">
+    <i class="material-icons">email</i> {{ site.email }}
+  </div>
+  <div class="contact-item">
+    <a href="{{ site.github }}">
+      <i class="fab fa-github"></i> Github
+    </a>
+  </div>
+</header>
 
       <section>
         {{ content }}
