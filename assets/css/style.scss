@@ -1,0 +1,45 @@
+```scss
+---
+---
+@import "{{ site.theme }}";
+
+// 1. 프로필 이미지 크기 및 간격 조절
+.profile-img-container img {
+  width: 100%;
+  max-width: 200px; // 너무 크면 사이드바를 벗어남
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+// 2. 텍스트 겹침 방지 (행간 확보)
+.contact-info {
+  margin-top: 20px;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px; // 항목 간의 여유 공간
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+// 3. 아이콘 위치 미세 조정
+.info-item i, .info-item span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.info-item i {
+  margin-right: 10px;
+  font-size: 18px;
+  width: 20px; // 아이콘 너비 고정으로 텍스트 시작점 정렬
+  text-align: center;
+}
+
+.info-item a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
