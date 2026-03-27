@@ -73,3 +73,5 @@ I introduce the concept of the Internet of Things (IoT) and work on a mini-proje
 We develop a navigation system that introduces the internal facilities of each building and displays the shortest route and time from building to building using the Floyd-Washall algorithm.
 To build data for the development, we measured the time taken by walking directly on each path.
 
+
+
