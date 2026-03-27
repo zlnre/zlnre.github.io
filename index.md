@@ -14,7 +14,7 @@ I have a keen interest in AI and Backend Development.
   <sup>2021.03 - 2027.02</sup>
 </h4>
 
-- B.S. in [AI convergence]
+- B.S. in [AI Convergence]
 - Cumulative GPA: 3.93 / 4.5 , **Magna Cum Laude**
 
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
