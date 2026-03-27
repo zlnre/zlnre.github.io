@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Hello! I am a student majoring in AI Convergence at KNU. I have a keen interest in AI and Backend Development.
+Hello! I am a student majoring in AI Convergence at KNU. 
+I have a keen interest in AI and Backend Development.
 
 
 ### Education
@@ -19,11 +20,11 @@ Hello! I am a student majoring in AI Convergence at KNU. I have a keen interest 
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
 
 ### Skills
-**Language:** Python, C
-**Data Analysis:** Pandas, Numpy, Scikit-learn
-**Machine Learning:** PyTorch
-**FrontEnd:** HTML, CSS, JavaScript
-**Tools:** Git, GitHub
+* **Language:** Python, C
+* **Data Analysis:** Pandas, Numpy, Scikit-learn
+* **Machine Learning:** PyTorch
+* **FrontEnd:** HTML, CSS, JavaScript
+* **Tools:** Git, GitHub
 
 
 <!--
