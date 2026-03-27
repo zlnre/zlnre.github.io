@@ -29,14 +29,6 @@ I have a keen interest in AI and Backend Development.
 **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Git, GitHub
 
 <!--
-- **Language:** Python, C
-- **Data Analysis:** Pandas, Numpy, Scikit-learn
-- **Machine Learning:** PyTorch
-- **FrontEnd:** HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
--->
-
-<!--
 ### Experiences
 
 ### Professional Activities
@@ -44,7 +36,8 @@ I have a keen interest in AI and Backend Development.
 
 ### Awards & Scholarships
 
-- **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)** – 12th Place out of 817 teams (Top 1.5%), 2025
+- **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)**
+12th Place out of 817 teams (Top 1.5%), 2025
 - **Magna Cum Laude Honor** at Kangwon National University, 2027 
 
 ### Projects
