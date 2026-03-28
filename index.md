@@ -32,6 +32,7 @@ I have a keen interest in AI and Backend Development.
 - **정보처리기사**
 - **ADsP**
 - **SQLD**
+- 한국사능력검정시험 1급
 
 <!--
 ### Experiences
