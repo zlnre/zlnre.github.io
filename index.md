@@ -15,7 +15,11 @@ I have a keen interest in AI and Backend Development.
 </h4>
 
 - B.S. in [AI Convergence]
-- Cumulative GPA: 3.93 / 4.5 , **Magna Cum Laude**
+- Cumulative GPA: 3.93 / 4.5
+<!--
+### **Magna Cum Laude**
+### 
+-->
 
 [AI convergence]: https://ai.kangwon.ac.kr/ai/index.do
 
@@ -30,9 +34,10 @@ I have a keen interest in AI and Backend Development.
 
 ### Certification
 - **정보처리기사**
+- 빅데이터분석기사
 - **ADsP**
 - **SQLD**
-- 한국사능력검정시험 1급
+- **한국사능력검정시험 1급**
 
 <!--
 ### Experiences
@@ -43,8 +48,10 @@ I have a keen interest in AI and Backend Development.
 ### Awards & Scholarships
 
 - **LG Aimers AI Hackathon(Resort F&B Demand Forecasting)** <br/>12th Place out of 817 teams (Top 1.5%), 2025
-- **Magna Cum Laude Honor** at Kangwon National University, 2027 
-
+<!--
+###- **Magna Cum Laude Honor** at Kangwon National University, 2027 
+### Professional Activities
+-->
 ### Projects
 
 - **네이버 지도 API 기반 캠퍼스 분리수거 및 흡연 구역 안내 지도 서비스 개발** <sup>2024.10 - 2024.12</sup> <a class="code" href="https://github.com/zlnre/Campus-Facility-Map">[code]</a> <br/>
