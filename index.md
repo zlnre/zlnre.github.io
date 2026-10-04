@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hello! I am a student majoring in AI Convergence at KNU.<br/> 
-I have a keen interest in AI and Backend Development.
+I'm interested in working in IT within the public sector.
 
 
 ### Education
