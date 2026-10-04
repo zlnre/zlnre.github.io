@@ -34,7 +34,7 @@ I'm interested in working in IT within the public sector.
 - **ADsP**
 - **SQLD**
 - **한국사능력검정시험 1급**
-- TOEIC-S IH
+- OPIc IH
 
 <!--
 ### Experiences
